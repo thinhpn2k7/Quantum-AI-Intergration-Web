@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Learning Web",
+  "description": "Interactive STEM educational platform for quantum computing, core physics, quantum machine learning, optimization, and HPC integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
